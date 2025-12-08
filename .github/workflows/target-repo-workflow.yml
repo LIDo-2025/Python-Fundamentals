@@ -23,7 +23,7 @@ jobs:
       - name: Checkout Python-Fundamentals
         uses: actions/checkout@v4
       
-      - name: Checkout parchmentIQ repository  
+      - name: Checkout the parchmentIQ repository  
         uses: actions/checkout@v4
         with:
           repository: ScryptIQ-ai/parchmentIQ
